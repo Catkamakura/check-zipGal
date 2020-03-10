@@ -12,7 +12,8 @@ For example, if I hava a rootDir named "E:/galgame", in which there is a folder 
 
 see the index tree below
 
-<pr>
+<blockquote>
+<pre>
 E: -
    |-galgame-
             |-A048@Little Busters！EX-
@@ -22,4 +23,5 @@ E: -
                                      |-A048@忧郁的弟弟.part4.rar
                                      |-A048@忧郁的弟弟.part5.rar
                                      |-README.md
-</pr>
+</pre>
+</blockquote>
